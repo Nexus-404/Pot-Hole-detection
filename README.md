@@ -6,4 +6,4 @@ https://drive.google.com/file/d/1s9OzDxDzmo259UndSPWArdYnpXx3VfnO/view?usp=shari
 
 Image Output:
 
-![alt text](/Pothole Detection.png)
+![Output](https://github.com/Nexus-404/Pot-Hole-detection/blob/main/Pothole%20Detection.png)
